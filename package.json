@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "vite build --config vite.config.mjs && vite build --config vite.config.min.mjs",
+    "dev": "live-server",
+    "deploy": "npm run build && wrangler pages deploy ./dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lightningcss": "^1.25.1",
+    "live-server": "^1.2.2",
+    "vite-plugin-css-injected-by-js": "^3.4.0"
+  }
+}

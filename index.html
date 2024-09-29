@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Sample</title>
+	<link rel="icon" type="image/x-icon" href="./favicon.ico" />
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+	<div id="app">
+		<div class="marquee-items">			
+			<div class="items">
+				<div class="item"><img src="./images/chatra.webp" /></div>
+				<div class="item"><img src="./images/codesignal.webp" /></div>
+				<div class="item"><img src="./images/favro.webp" /></div>
+				<div class="item"><img src="./images/galaxy.webp" /></div>
+				<div class="item"><img src="./images/hive.webp" /></div>
+				<div class="item"><img src="./images/ledgy.webp" /></div>
+				<div class="item"><img src="./images/lovebox.webp" /></div>
+				<div class="item"><img src="./images/qualia.webp" /></div>
+				<div class="item"><img src="./images/tutormundi.webp" /></div>
+				<div class="item"><img src="./images/wekan.webp" /></div>
+			</div>
+		</div>
+	</div>
+	<script src="dist/marquee-items/index.js"></script>
+	<script>
+	document.addEventListener('DOMContentLoaded', evt => {
+	    let app = document.querySelector('#app');
+	    let el = app.querySelector('.marquee-items');
+
+	    marquee_items(el, {
+	        height: 64,
+	        gap: 30,
+	        direction: "left"
+	    })
+	})
+	</script>
+</body>
+</html>

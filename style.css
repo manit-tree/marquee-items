@@ -1,0 +1,38 @@
+@layer set {
+	* {
+		margin:0;
+		padding:0;
+	}
+
+	:root {
+		font-family: roboto,sans-serif;
+	}
+
+	html, body {
+		height: 100%;
+	}
+
+	img {
+		height: auto;
+		max-width: 100%;
+	}
+}
+
+@layer base-color {
+	:root {
+		--bg-color: #121212;
+		--text-color: #ccc;
+	}
+}
+
+body {
+	overflow-x: hidden;
+	color: var(--text-color);
+	background-color: var(--bg-color);
+}
+
+#app {
+	display: grid;
+	place-items: center;
+	height: 100%;
+}
