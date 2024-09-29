@@ -5,8 +5,7 @@
   "main": "app.js",
   "scripts": {
     "build": "vite build --config vite.config.mjs && vite build --config vite.config.min.mjs",
-    "dev": "live-server",
-    "deploy": "npm run build && wrangler pages deploy ./dist"
+    "dev": "live-server"
   },
   "keywords": [],
   "author": "",
