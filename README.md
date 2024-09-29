@@ -5,7 +5,7 @@ a Javascript library for creating marquee items.
 
 ## Screnshots
 
-https://github.com/manit-tree/marquee-items/blob/main/demo.mp4
+https://raw.githubusercontent.com/manit-tree/marquee-items/refs/heads/main/demo.mp4
 
 
 ## Documentation
