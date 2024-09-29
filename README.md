@@ -12,18 +12,19 @@ https://github.com/user-attachments/assets/1d959653-e2f4-47da-92b6-b99cfb292d1e
 
 ## Setup
 
-![Setup](https://raw.githubusercontent.com/manit-tree/marquee-items/refs/heads/main/Setup.png)
+![Setup](https://github.com/user-attachments/assets/f015c5d6-cdf7-4e11-b2c3-2a842bbd9ef7)
 
 Include JavaScript library (dist/marquee-items/index.js)
 
 ## HTML
 
-![HTML](https://raw.githubusercontent.com/manit-tree/marquee-items/refs/heads/main/HTML.png)
+![HTML](https://github.com/user-attachments/assets/0083fd7c-4dba-43ab-bf1a-0d85da43618e)
 
 Prepare HTML for Marquee Items. 
 
 ## JavaScript
-![JavaScript](https://raw.githubusercontent.com/manit-tree/marquee-items/refs/heads/main/JavaScript.png)
+
+![JavaScript](https://github.com/user-attachments/assets/5560c892-4e93-425b-bccb-190d97467f4c)
 
 Call "marquee_items" function.
 
