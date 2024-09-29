@@ -3,6 +3,10 @@
 
 a Javascript library for creating marquee items.
 
+## Demo
+
+[https://marquee-items-9jxnbl9q8-manittrees-projects.vercel.app/](https://marquee-items-9jxnbl9q8-manittrees-projects.vercel.app/)
+
 ## Screnshots
 
 https://github.com/user-attachments/assets/1d959653-e2f4-47da-92b6-b99cfb292d1e
