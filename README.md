@@ -1,5 +1,5 @@
 
-# MarqueeItems
+# marquee-items
 
 a Javascript library for creating marquee items.
 
