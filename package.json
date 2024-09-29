@@ -1,8 +1,8 @@
 {
-  "name": "playground",
+  "name": "marquee-items",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "A JavaScript library for creating Marquee Items",
+  "main": "index.html",
   "scripts": {
     "build": "vite build --config vite.config.mjs && vite build --config vite.config.min.mjs",
     "dev": "live-server"
