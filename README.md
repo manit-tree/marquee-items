@@ -26,7 +26,13 @@ Prepare HTML for Marquee Items.
 ![JavaScript](https://raw.githubusercontent.com/manit-tree/marquee-items/refs/heads/main/JavaScript.png)
 
 Call "marquee_items" function.
+
 ## Authors
 
 - Mr.Manit Treeprapankit
+
+## Credits
+
+- screenshots of code created using [https://ray.so](https://ray.so)
+- readme file created using [https://readme.so](https://readme.so)
 
