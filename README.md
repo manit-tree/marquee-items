@@ -9,7 +9,6 @@ https://github.com/user-attachments/assets/1d959653-e2f4-47da-92b6-b99cfb292d1e
 
 ## Documentation
 
-
 ## Setup
 
 ![Setup](https://github.com/user-attachments/assets/f015c5d6-cdf7-4e11-b2c3-2a842bbd9ef7)
