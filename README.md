@@ -47,6 +47,7 @@ Call "marquee_items" function.
 
 ## Credits
 
-- screenshots of code created using [https://ray.so](https://ray.so)
+- video screenshots created using [Bandicam](https://www.bandicam.com)
+- image screenshots of created using [https://ray.so](https://ray.so)
 - readme file created using [https://readme.so](https://readme.so)
 
